@@ -3,7 +3,7 @@
   <img
     src="https://render.gitanimals.org/farms/devyunie"
     width="1280"
-    height="300"
+    height="850"
   />
   </a>
 
