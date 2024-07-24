@@ -12,8 +12,18 @@
 </div>      
 
 ---  
+<div align=center>
+  
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevyunie%2Fhit-counter&count_bg=%2379C83D&title_bg=%234554D9&icon=gnubash.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyunie&include_all_commits=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<span align=center>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyunie&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&inclue_all_commits=true&show_icons=true&theme=default)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyunie)](https://github.com/anuraghazra/github-readme-stats) 
+
+ </span>
+
+ ---
+ 
