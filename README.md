@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header%20render)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33A1F7&width=435&lines=WELCOME+TO+DEV_YUNIE+GITHUB!)](https://git.io/typing-svg)
-<div align="center">
-   <h1 style="color:#F2B655;">Welcome to Dev_Yunie Github</h1>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevyunie%2Fhit-counter&count_bg=%2379C83D&title_bg=%234554D9&icon=gnubash.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=header%20render)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=36&pause=1000&color=DD4A4A&width=435&lines=Welcome+to+Yunie+Github+!)](https://git.io/typing-svg)
+---
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevyunie%2Fhit-counter&count_bg=%2379C83D&title_bg=%234554D9&icon=gnubash.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyunie&include_all_commits=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <a>
@@ -14,5 +14,3 @@
   />
   </a>
 
-  ![](./profile-3d-contrib/profile-gitblock.svg)
-</div>
