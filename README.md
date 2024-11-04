@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 하루에 많이는 아니더라도 조금씩 한발짝 앞으로 걸어가며</li>성장해 나가고 싶은 개발을 공부하는 사람입니다. </div> 
     </div>
     <div aligin="center">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐾 My farms </h2> <br> 
+    <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐾 My farms </h2> <br> 
     <div>
       <a>
       <img
@@ -16,7 +16,6 @@
         />
       </a>
     </div>
-    <br>
     </div> 
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
