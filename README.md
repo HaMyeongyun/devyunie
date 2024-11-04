@@ -5,6 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> devyunie: 발자국 개발자 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 하루에 많이는 아니더라도 조금씩 한발짝 앞으로 걸어가며</li>성장해 나가고 싶은 개발을 공부하는 사람입니다. </div> 
     </div>
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐾 My farms </h2> <br> 
     <div aligin="center">
       <a>
       <img
